@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
+https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
+https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+#EXTINF:-1 tvg-name="CCTV3",CCTV-3 综艺[高清]
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际[高清]
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9",CCTV-9 纪录[高清]
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV10",CCTV-10 科教[高清]
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
